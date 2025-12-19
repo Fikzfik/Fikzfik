@@ -5,7 +5,7 @@
 <h2 align="center">✨ About Me ✨</h2>
 
 <p align="center">
-Hi, I'm <b>Fikri Ardi</b> 👋 <br>
+Hi, I'm <b>Fikri Ardiansyah</b> 👋 <br>
 A backend developer enthusiast who loves building scalable, secure, and clean systems. <br>
 I enjoy turning complex logic into simple, reliable, and maintainable solutions.
 </p>
