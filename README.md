@@ -2,12 +2,36 @@
   <img src="https://i.pinimg.com/originals/2e/79/3a/2e793a8e1f48fdd6aeb5f7c0c5e1c8a4.gif" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Fikri+Ardiansyah+👋;Backend+Developer+Enthusiast;Build+Scalable+%26+Secure+Systems;Clean+Architecture+%7C+Microservices;Always+Learning+New+Tech" />
+</p>
+
+---
+
 <h2 align="center">✨ About Me ✨</h2>
 
 <p align="center">
 Hi, I'm <b>Fikri Ardiansyah</b> 👋 <br>
 A backend developer enthusiast who loves building scalable, secure, and clean systems. <br>
 I enjoy turning complex logic into simple, reliable, and maintainable solutions.
+</p>
+
+<p align="center">
+<i>
+"Code is not just about making things work, <br>
+but making them clean, secure, and scalable."
+</i>
+</p>
+
+---
+
+<h2 align="center">🚀 Current Focus 🚀</h2>
+
+<p align="center">
+🔹 Building RESTful & scalable backend services <br>
+🔹 Exploring Microservices Architecture <br>
+🔹 API Security, Authentication & Authorization <br>
+🔹 Dockerized apps & production-ready systems
 </p>
 
 ---
@@ -89,6 +113,33 @@ I enjoy turning complex logic into simple, reliable, and maintainable solutions.
 
 ---
 
+<h2 align="center">📌 Featured Projects 📌</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">Smart Management System</h3>
+      <p align="center">
+        Backend system for managing data & users securely <br><br>
+        <b>Tech:</b> Node.js, Express, MySQL, JWT <br><br>
+        <a href="https://github.com/Fikzfik/Smart_Management">
+          <img src="https://img.shields.io/badge/GitHub-View_Project-black?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">REST API Boilerplate</h3>
+      <p align="center">
+        Clean architecture REST API starter <br><br>
+        <b>Tech:</b> NestJS, PostgreSQL, Docker <br><br>
+        <img src="https://img.shields.io/badge/Coming_Soon-gray?style=for-the-badge"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
@@ -97,6 +148,14 @@ I enjoy turning complex logic into simple, reliable, and maintainable solutions.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fikzfik&theme=tokyonight" />
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fikzfik&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
