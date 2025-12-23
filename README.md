@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2e/79/3a/2e793a8e1f48fdd6aeb5f7c0c5e1c8a4.gif" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Fikri+Ardiansyah+👋;Backend+Developer+Enthusiast;Build+Scalable+%26+Secure+Systems;Clean+Architecture+%7C+Microservices;Always+Learning+New+Tech" />
 </p>
 
